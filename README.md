@@ -14,7 +14,7 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, Tailwind CSS
+**Frontend:** HTML, CSS, JavaScript, CSS
 **Backend:** Python, Flask
 **AI:** Google Gemini 2.5 Flash, gTTS
 **Media:** FFmpeg
