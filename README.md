@@ -55,13 +55,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Open:
-
-```text
-http://127.0.0.1:5000
-```
-
-> **Requirement:** FFmpeg must be installed and available in your system PATH.
 
 ## 📂 Project Structure
 
@@ -69,7 +62,6 @@ http://127.0.0.1:5000
 AI_Dub_India/
 ├── app.py
 ├── index.html
-├── requirements.txt
 ├── uploads/
 ├── outputs/
 └── AI Dub India ppt.pdf
